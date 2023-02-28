@@ -7,4 +7,4 @@ es conveniente incluir el archivo para poder ignorar archivos y/o carpetas que n
 ¿Cuándo se debe hacer?
 se recomienda generar el archivo al crear el repositorio
 ¿Cómo configuraría el archivo .gitignore?
-se puede utilizar la pagina de [gitignore.io] (https://www.toptal.com/developers/gitignore) para generar el archivo
+se puede utilizar la pagina de [gitignore.io](https://www.toptal.com/developers/gitignore) para generar el archivo
